@@ -1,3 +1,3 @@
 # first-demo
 This is my first Git Repository 
-Author - Pulkit Arora 
+Author -( Pulkit Arora )
